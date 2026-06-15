@@ -7,8 +7,7 @@ export function IntroSection() {
         <div className="bg-amber-50 border-l-4 border-amber-500 p-4 rounded-r-lg mb-8 flex items-start gap-3">
           <AlertTriangle className="text-amber-500 shrink-0 mt-0.5" size={20} />
           <p className="text-sm text-amber-800">
-            <strong>Redaktioneller Hinweis:</strong> Dieser Artikel enthält
-            Affiliate-Links. Unsere Bewertungen basieren auf unabhängigen Tests
+            <strong>Redaktioneller Hinweis:</strong> Unsere Bewertungen basieren auf unabhängigen Tests
             und echten Nutzererfahrungen.
           </p>
         </div>
